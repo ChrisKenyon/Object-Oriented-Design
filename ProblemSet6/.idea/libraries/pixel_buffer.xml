@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pixel_buffer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pixel_buffer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
